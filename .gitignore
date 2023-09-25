@@ -1,0 +1,8 @@
+target/*
+
+.vscode/*
+
+src/main/resources/sftp.json
+src/main/resources/application.properties
+
+src/main/java/draft/*
